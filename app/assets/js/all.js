@@ -1,5 +1,6 @@
-console.log('Hello!');
+console.log("Hello!");
+console.log("GGG");
 
 $(document).ready(() => {
-  console.log('HesSchool Hello!');
+  console.log("HesSchool Hello!");
 });
